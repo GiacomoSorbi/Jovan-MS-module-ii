@@ -1,0 +1,58 @@
+.header {
+	background-color: #818181;
+	position: sticky;
+	height: 100px;
+	width: 100%;
+}
+.logofile {
+	position: relative;
+	display: inline-block;
+	margin-left: 5px;
+	width: 90px;
+	text-align: left;
+	vertical-align: middle;
+	margin-left: 10px;
+}
+.headtext {
+	font-size: 2.4em;
+	font-weight: 500;
+	color: white;
+	width: 40%;
+	text-align: left;
+	vertical-align: middle;
+	margin-left: 10px;
+	z-index: 10;
+	display: inline-block;
+}
+
+.headtext a {
+	text-decoration: none;
+	color: white;
+}
+.headtext a.active {
+	font-weight: bold;
+	color: #1d1d1d;
+}
+
+nav {
+	display: inline-block;
+	position: relative;
+	justify-content: space-between;
+	font-size: 2.5em;
+	font-weight: 500;
+	color: white;
+	width: 53%;
+	text-align: right;
+	vertical-align: middle;
+	margin-right: 10px;
+	z-index: 10;
+}
+
+nav a {
+	text-decoration: none;
+	color: white;
+}
+nav a.active {
+	font-weight: bold;
+	color: #1d1d1d;
+}
