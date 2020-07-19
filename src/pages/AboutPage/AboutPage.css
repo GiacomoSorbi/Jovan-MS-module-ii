@@ -3,4 +3,11 @@
 	padding-left: 20px;
 	padding-top: 20px;
 	padding-bottom: 20px;
+	width: min-content;
+}
+
+@media only screen and (max-width: 768px) {
+	.photographer {
+		width: 350px;
+	}
 }

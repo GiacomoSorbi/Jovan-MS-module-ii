@@ -14,7 +14,7 @@
 	margin-left: 10px;
 }
 .headtext {
-	font-size: 2.4em;
+	font-size: xx-large;
 	font-weight: 500;
 	color: white;
 	width: 40%;
@@ -38,10 +38,10 @@ nav {
 	display: inline-block;
 	position: relative;
 	justify-content: space-between;
-	font-size: 2.5em;
+	font-size: xx-large;
 	font-weight: 500;
 	color: white;
-	width: 53%;
+	width: 50%;
 	text-align: right;
 	vertical-align: middle;
 	margin-right: 10px;
@@ -55,4 +55,20 @@ nav a {
 nav a.active {
 	font-weight: bold;
 	color: #1d1d1d;
+}
+
+@media only screen and (max-width: 768px) {
+	.header {
+		height: 50px;
+	}
+	.logofile {
+		width: 50px;
+	}
+	.headtext {
+		font-size: 0;
+	}
+	nav {
+		width: fit-content;
+		font-size: medium;
+	}
 }

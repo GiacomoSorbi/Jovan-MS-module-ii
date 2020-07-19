@@ -4,7 +4,11 @@ import "./AboutPage.css";
 const AboutPage = () => {
 	return (
 		<div className='about'>
-			<img alt='Photographer' src='https://crear.ch/photographer.jpg' />
+			<img
+				className='photographer'
+				alt='Photographer'
+				src='https://crear.ch/photographer.jpg'
+			/>
 
 			<p>
 				I am a London based photographer specialising in Architecture

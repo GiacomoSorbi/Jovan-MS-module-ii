@@ -24,7 +24,7 @@ class GMaps extends Component {
 	};
 	render() {
 		const style = {
-			width: "50%",
+			width: "80%",
 			height: "50%",
 		};
 		return (

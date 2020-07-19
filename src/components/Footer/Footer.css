@@ -28,3 +28,19 @@
 	margin-top: 25px;
 	height: 50px;
 }
+
+@media only screen and (max-width: 768px) {
+	.footer {
+		height: 50px;
+	}
+	.socmed {
+		position: relative;
+		width: 40%;
+	}
+	.foottext {
+		width: 40%;
+	}
+	.iconlogo {
+		height: 25px;
+	}
+}
