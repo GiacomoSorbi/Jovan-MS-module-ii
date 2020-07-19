@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Jovan-MS-module-ii/precache-manifest.bc4320f1f243ddf590183325f897f837.js"
+  "/Jovan-MS-module-ii/precache-manifest.3094888c6156a104bf77e07a073d8292.js"
 );
 
 self.addEventListener('message', (event) => {
