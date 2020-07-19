@@ -1,19 +1,19 @@
 import React from "react";
 import "./Header.css";
 import Logo from "./logo/logo.svg";
-import { NavLink } from "react-router-dom";
+import { NavLink, Link } from "react-router-dom";
 
 const Header = () => (
 	<header className='header'>
 		<div className='logofile'>
-			<a href='/' target='_self'>
+			<Link to='/' target='_self'>
 				<img src={Logo} alt='website-logo' />
-			</a>
+			</Link>
 		</div>
 		<div className='headtext'>
-			<a href='/' target='_self'>
+			<Link to='/' target='_self'>
 				creArch - architectural photography
-			</a>
+			</Link>
 		</div>
 
 		<nav>

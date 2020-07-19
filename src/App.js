@@ -12,12 +12,7 @@ function App() {
 			<Route path='/contact' exact component={ContactPage} />
 			<Route
 				path='*'
-				render={() => (
-					<img
-						alt='404'
-						src='https://freefrontend.com/assets/img/html-funny-404-pages/CodePen-404-Page.gif'
-					/>
-				)}
+				render={() => <img alt='404' src='https://crear.ch/404_page.svg' />}
 			/>
 		</Switch>
 	);
