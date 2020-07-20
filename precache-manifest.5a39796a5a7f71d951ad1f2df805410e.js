@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dcaf8c07d2942b53f8a92a087dc80329",
+    "revision": "a9862f0af9b42a134597fe5a5c092ad4",
     "url": "/Jovan-MS-module-ii/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Jovan-MS-module-ii/static/css/2.740d69ab.chunk.css"
   },
   {
-    "revision": "97d65bae8abbdb188ce5",
-    "url": "/Jovan-MS-module-ii/static/css/main.b8d71605.chunk.css"
+    "revision": "04c3e8b5ca7b89d2de7a",
+    "url": "/Jovan-MS-module-ii/static/css/main.000a62e5.chunk.css"
   },
   {
     "revision": "5e8bf2ac397b780e17a2",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Jovan-MS-module-ii/static/js/2.25032f30.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "97d65bae8abbdb188ce5",
+    "revision": "04c3e8b5ca7b89d2de7a",
     "url": "/Jovan-MS-module-ii/static/js/main.94fb4413.chunk.js"
   },
   {

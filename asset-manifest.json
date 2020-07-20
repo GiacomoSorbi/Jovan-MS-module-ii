@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Jovan-MS-module-ii/static/css/main.b8d71605.chunk.css",
+    "main.css": "/Jovan-MS-module-ii/static/css/main.000a62e5.chunk.css",
     "main.js": "/Jovan-MS-module-ii/static/js/main.94fb4413.chunk.js",
     "main.js.map": "/Jovan-MS-module-ii/static/js/main.94fb4413.chunk.js.map",
     "runtime-main.js": "/Jovan-MS-module-ii/static/js/runtime-main.2ef55b4c.js",
@@ -9,10 +9,10 @@
     "static/js/2.25032f30.chunk.js": "/Jovan-MS-module-ii/static/js/2.25032f30.chunk.js",
     "static/js/2.25032f30.chunk.js.map": "/Jovan-MS-module-ii/static/js/2.25032f30.chunk.js.map",
     "index.html": "/Jovan-MS-module-ii/index.html",
-    "precache-manifest.b4527a7f2cdc3b3e1db6d71d01a7cad9.js": "/Jovan-MS-module-ii/precache-manifest.b4527a7f2cdc3b3e1db6d71d01a7cad9.js",
+    "precache-manifest.5a39796a5a7f71d951ad1f2df805410e.js": "/Jovan-MS-module-ii/precache-manifest.5a39796a5a7f71d951ad1f2df805410e.js",
     "service-worker.js": "/Jovan-MS-module-ii/service-worker.js",
     "static/css/2.740d69ab.chunk.css.map": "/Jovan-MS-module-ii/static/css/2.740d69ab.chunk.css.map",
-    "static/css/main.b8d71605.chunk.css.map": "/Jovan-MS-module-ii/static/css/main.b8d71605.chunk.css.map",
+    "static/css/main.000a62e5.chunk.css.map": "/Jovan-MS-module-ii/static/css/main.000a62e5.chunk.css.map",
     "static/js/2.25032f30.chunk.js.LICENSE.txt": "/Jovan-MS-module-ii/static/js/2.25032f30.chunk.js.LICENSE.txt",
     "static/media/facebook.svg": "/Jovan-MS-module-ii/static/media/facebook.a2b97f58.svg",
     "static/media/instagram.svg": "/Jovan-MS-module-ii/static/media/instagram.a93dd8e3.svg",
@@ -23,7 +23,7 @@
     "static/js/runtime-main.2ef55b4c.js",
     "static/css/2.740d69ab.chunk.css",
     "static/js/2.25032f30.chunk.js",
-    "static/css/main.b8d71605.chunk.css",
+    "static/css/main.000a62e5.chunk.css",
     "static/js/main.94fb4413.chunk.js"
   ]
 }
